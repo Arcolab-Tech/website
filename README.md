@@ -1,4 +1,4 @@
-# Arcolab Tech website
+# ARCOLAB Tech website
 
 Site institucional estático para `https://tech.arcolab.com.br`.
 
