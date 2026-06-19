@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Arcolab Tech">
+  <rect width="64" height="64" rx="14" fill="#07326a"/>
+  <path d="M16 47 31 14l17 33h-9l-3-7H25l-3 7h-6Zm12-15h5l-3-7-2 7Z" fill="#f7fbff"/>
+  <path d="M42 16h6v32h-6z" fill="#73c9ff" opacity=".95"/>
+</svg>
