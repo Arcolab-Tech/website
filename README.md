@@ -11,6 +11,7 @@ Site institucional estático para `https://tech.arcolab.com.br`.
 - `script.js`: ano automático no rodapé
 - `assets/arcolab-institutional-bg.webp`: background institucional otimizado
 - `assets/arcolab-institutional-bg.png`: fallback e imagem social
+- `assets/icons/`: ícones extraídos do símbolo institucional da ARCOLAB
 
 ## Publicação
 

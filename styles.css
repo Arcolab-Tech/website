@@ -73,10 +73,9 @@ a {
   height: 34px;
   border: 1px solid rgba(233, 246, 255, 0.38);
   border-radius: 8px;
-  background:
-    linear-gradient(135deg, rgba(23, 114, 176, 0.98), rgba(233, 246, 255, 0.88)),
-    linear-gradient(45deg, transparent 48%, rgba(3, 23, 47, 0.72) 49%, transparent 52%);
+  background: #07326a url("assets/icons/favicon-64.png") center / cover no-repeat;
   box-shadow: 0 10px 30px rgba(21, 107, 170, 0.28);
+  overflow: hidden;
 }
 
 .nav-links {
